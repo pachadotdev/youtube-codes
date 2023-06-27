@@ -1,0 +1,125 @@
+---
+title: "Writing Functions in Python and R"
+format: html
+---
+
+Goal: Write a function that returns "x is prime" or "x is not prime"
+
+# Python
+
+```{python}
+6 % 3
+```
+
+```{python}
+# write a function that returns "x is prime" or "x is not prime"
+def is_prime(x):
+    Y = []
+
+    # add all the previous number to x to y
+    for i in range(2, x):
+        Y.append(i)
+
+    # print(y)
+
+    # for each number in Y, check if x is integer divisible by it
+    for i in Y:
+        if x % i == 0:
+            print("x is not prime")
+            # if i an integer divisor of x, then break the loop
+            break
+        else:
+            print("x is prime")
+
+```
+
+```{python}
+# is_prime(3)
+# is_prime(4)
+is_prime(21)
+```
+
+```{python}
+# now we debug the function
+
+x = 3 * 7
+
+Y = []
+
+for i in range(2, x):
+    Y.append(i)
+
+for i in Y:
+    # we print i to see where it fails
+    print(i)
+    if x % i == 0:
+        print("x is not prime")
+    else:
+        print("x is prime")
+
+# lesson: move the print out of the loop
+```
+
+```{python}
+# write a function that returns "x is prime" or "x is not prime"
+def is_prime(x):
+    Y = []
+
+    # add all the previous number to x to y
+    for i in range(2, x):
+        Y.append(i)
+
+    # print(y)
+
+    # create an index to indicate p > 0 means "x is prime"
+    p = 0
+
+    # for each number in y, check if x is integer divisible by it
+    for i in Y:
+        if x % i == 0:
+            p += 1
+            break
+    
+    # if p > 0, then print "x is not prime"
+    if p > 0:
+        print("x is not prime")
+    else:
+        print("x is prime")
+```
+
+```{python}
+# is_prime(3)
+# is_prime(4)
+# is_prime(10)
+is_prime(21)
+```
+
+```{r}
+# write a function that returns "x is prime" or "x is not prime"
+is_prime <- function(x) {
+  # add all the previous number to x to y
+  Y <- seq(2, x - 1)
+
+  # create an index to indicate p > 0 means "x is prime"
+  p <- 0
+
+  # for each number in y, check if x is integer divisible by it
+  for (i in Y) {
+    if (x %% i == 0) {
+      p <- p + 1
+      break
+    }
+  }
+  
+  # if p > 0, then print "x is not prime"
+  if (p > 0) {
+    print("x is not prime")
+  } else {
+    print("x is prime")
+  }
+}
+```
+
+```{r}
+is_prime(21)
+```
