@@ -9,6 +9,7 @@ I organized the codes I explain in my YouTube channel [Data Science Pacha](https
 | Date | Video |
 | ---- | ----- |
 | 2023-04-16 | [Building a basic Shiny app with Golem - Part I](https://youtu.be/6EB-dXBJFDE) |
+| 2023-06-28 | [ Write a function with Python and R ](https://youtu.be/oN_DPHGmykM) |
 
 ## Training
 
