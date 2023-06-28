@@ -1,6 +1,4 @@
-
-# shinypart1
-# Building a basic Shiny app with Golem - Part I 
+# 2023-04-16 - Building a basic Shiny app with Golem - Part I 
 
 A step-by-step explanation of how to build a Shiny app. Golem is a framework for Robust Shiny Applications, and in this video, we use it to make the process as simple as possible.
 
