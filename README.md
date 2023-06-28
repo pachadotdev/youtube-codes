@@ -6,10 +6,10 @@ I organized the codes I explain in my YouTube channel [Data Science Pacha](https
 
 ## Videos
 
-| Date | Video |
-| ---- | ----- |
-| 2023-04-16 | [Building a basic Shiny app with Golem - Part I](https://youtu.be/6EB-dXBJFDE) |
-| 2023-06-28 | [ Write a function with Python and R ](https://youtu.be/oN_DPHGmykM) |
+| Date | Video | Code |
+| ---- | ----- | ---- |
+| 2023-04-16 | [Building a basic Shiny app with Golem - Part I](https://youtu.be/6EB-dXBJFDE) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-04-16-shiny-part-1) |
+| 2023-06-28 | [ Write a function with Python and R ](https://youtu.be/oN_DPHGmykM) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-06-28-write-functions)
 
 ## Training
 
