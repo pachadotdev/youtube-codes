@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+h1 {
+  font-size: 48px;
+  font-family: "Roboto Condensed", Sans-Serif;
+  color: #513163;
+}
+
+th {
+  border-top: 0;
+  font-family: "Times New Roman", Serif;
+  font-style: italic !important;
+}
