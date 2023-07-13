@@ -3,3 +3,7 @@
 *.aup3
 *.kdenlive
 .Rproj.user
+.Rhistory
+*.rds
+*.sav
+*.dta

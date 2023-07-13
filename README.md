@@ -12,6 +12,9 @@ I organized the codes I explain in my YouTube channel [Data Science Pacha](https
 | 2023-04-16 | [Building a basic Shiny app with Golem - Part I](https://youtu.be/6EB-dXBJFDE) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-04-16-shiny-part-1) |
 | 2023-06-28 | [ Write a function with Python and R ](https://youtu.be/oN_DPHGmykM) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-06-28-write-functions) |
 | 2023-06-29 | [Building a basic Shiny app with Golem - Part II](https://youtu.be/uQFZVVZponc) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-06-29-shiny-part-2) |
+| 2023-07-13 | [Linear Models in R - Part 1](https://youtu.be/Gh_wnzUOwT8) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-07-13-linear-models-part-1) |
+| 2023-07-13 | [Linear Models in R - Part 1](https://youtu.be/7-I-SKa__4o) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-07-13-linear-models-part-2) |
+| 2023-07-13 | [Linear Models in R - Part 1](https://youtu.be/HRWUcgFnTig) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-07-13-linear-models-part-3) |
 
 ## Training
 
