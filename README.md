@@ -15,6 +15,7 @@ I organized the codes I explain in my YouTube channel [Data Science Pacha](https
 | 2023-07-13 | [Linear Models in R - Part 1](https://youtu.be/Gh_wnzUOwT8) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-07-13-linear-models-part-1) |
 | 2023-07-13 | [Linear Models in R - Part 1](https://youtu.be/7-I-SKa__4o) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-07-13-linear-models-part-2) |
 | 2023-07-13 | [Linear Models in R - Part 1](https://youtu.be/HRWUcgFnTig) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-07-13-linear-models-part-3) |
+| 2023-07-27 | [Text Analysis in R - Exploring Barbie and Oppenheimer Reviews - Part I](https://youtu.be/FnKynbZP3sk) | [GitHub](https://github.com/pachadotdev/youtube-codes/tree/main/2023-07-27-text-analysis-barbieheimer-part-1) |
 
 ## Training
 
